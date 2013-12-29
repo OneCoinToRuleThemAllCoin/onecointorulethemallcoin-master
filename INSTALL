@@ -1,0 +1,9 @@
+Building OnecointorulethemallCoin
+
+See doc/readme-qt.rst for instructions on building OnecointorulethemallCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OnecointorulethemallCoin.
+
+See doc/build-*.txt for instructions on building onecointorulethemallcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of OnecointorulethemallCoin.
